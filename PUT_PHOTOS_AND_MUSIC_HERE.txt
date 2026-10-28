@@ -1,0 +1,1 @@
+Upload photo files and optional music.mp3 into this folder. See README.txt in the main folder.
